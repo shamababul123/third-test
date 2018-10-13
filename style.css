@@ -1,0 +1,86 @@
+/* write your CSS here */
+.main {
+	display: flex;
+	flex-direction: column;
+	margin-left: 1em;
+}
+.para4{
+	color: black;
+}
+.container {
+	border:  1px solid lightgrey;
+	padding: 1em;
+	margin: 1em;
+}
+.info {
+	display: flex;
+	flex-direction: column;
+	margin-left: 1em;
+}
+.alert {
+	    margin-left: 1em;
+    margin-right: 13em;
+    padding: 0em;
+        padding-top: 10px;
+
+}
+.para {
+	text-align: center;
+}
+.some {
+	display: flex;
+}
+.page {
+	display: flex;
+}
+.span1 {
+	 color: #2db92d;
+	 font-weight: 600;
+}
+#pages{
+	z-index: 1;
+    color: #fff;
+    background-color: #2FA4E7;
+    border-color: #2FA4E7;
+}
+
+#link {
+	color: #868e96;
+    pointer-events: none;
+    cursor: auto;
+    background-color: #fff;
+    border-color: #dee2e6;
+}
+.pagination {
+margin-left: auto;
+}
+.span1{
+	color: #0d3172;
+    font-weight: 650; 
+}
+.para1{
+color: #0d3172;
+}
+.span2 {
+	color: #0d3172;
+}
+.para2{
+	color: #0b275b;
+    font-weight: 400;
+}
+.para3 {
+	color: #0d3172;
+    font-weight: 650; 
+}
+.span2{ 
+	color: #2db92d;
+ }
+ .para {
+ 	color: #0d3172;
+    font-weight: 500; 
+ }
+ #more {
+ 	color: #0d3172;
+    font-weight: 700; 
+ }
+ 
